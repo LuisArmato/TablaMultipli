@@ -1,0 +1,16 @@
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\bin\Debug\net8.0-windows\TablaMultipli.exe
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\bin\Debug\net8.0-windows\TablaMultipli.deps.json
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\bin\Debug\net8.0-windows\TablaMultipli.runtimeconfig.json
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\bin\Debug\net8.0-windows\TablaMultipli.dll
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\bin\Debug\net8.0-windows\TablaMultipli.pdb
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\TablaMultipli.Form1.resources
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\TablaMultipli.csproj.GenerateResource.cache
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\TablaMultipli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\TablaMultipli.AssemblyInfoInputs.cache
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\TablaMultipli.AssemblyInfo.cs
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\TablaMultipli.csproj.CoreCompileInputs.cache
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\TablaMultipli.dll
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\refint\TablaMultipli.dll
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\TablaMultipli.pdb
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\TablaMultipli.genruntimeconfig.cache
+C:\Users\LuisA\source\repos\TablaMultipli\TablaMultipli\obj\Debug\net8.0-windows\ref\TablaMultipli.dll
